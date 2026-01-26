@@ -1,0 +1,12 @@
+D:\BHunter-Lab-2\BHunter-Lab-2\obj\Debug\BHunter-Lab-2.csproj.AssemblyReference.cache
+D:\BHunter-Lab-2\BHunter-Lab-2\obj\Debug\BHunter_Lab_2.Form1.resources
+D:\BHunter-Lab-2\BHunter-Lab-2\obj\Debug\BHunter_Lab_2.Properties.Resources.resources
+D:\BHunter-Lab-2\BHunter-Lab-2\obj\Debug\BHunter-Lab-2.csproj.GenerateResource.cache
+D:\BHunter-Lab-2\BHunter-Lab-2\obj\Debug\BHunter-Lab-2.csproj.CoreCompileInputs.cache
+D:\BHunter-Lab-2\BHunter-Lab-2\bin\Debug\CityDB.mdf
+D:\BHunter-Lab-2\BHunter-Lab-2\bin\Debug\CityDB_log.ldf
+D:\BHunter-Lab-2\BHunter-Lab-2\bin\Debug\BHunter-Lab-2.exe.config
+D:\BHunter-Lab-2\BHunter-Lab-2\bin\Debug\BHunter-Lab-2.exe
+D:\BHunter-Lab-2\BHunter-Lab-2\bin\Debug\BHunter-Lab-2.pdb
+D:\BHunter-Lab-2\BHunter-Lab-2\obj\Debug\BHunter-Lab-2.exe
+D:\BHunter-Lab-2\BHunter-Lab-2\obj\Debug\BHunter-Lab-2.pdb
