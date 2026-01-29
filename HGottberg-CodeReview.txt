@@ -1,0 +1,24 @@
+Heinrich Gottberg Code Review of Brieana Hunter Lab 2
+
+Is the code generally readable and well-documented?
+
+	The code is legible, but there weren't any comments so it was a little harder
+	to find everything as fast. Comments on the lambda expressions would be nice 
+	too.
+
+Did you find any software defects?
+
+	No defects as far as I can tell, everything ran without issue.
+
+What was one way that their solution differed from yours?
+
+	The buttons functioned with hidden labels while I did message boxes.
+
+Do you have any other constructive comments for the author?
+
+	I think adding comments will go a long way with documenting your code. 
+	Also the buttons and label colors were clashing a tiny bit so maybe adjust
+	those later. :)	
+
+Good job completing the assignment, everything works and the data is presentable.
+
