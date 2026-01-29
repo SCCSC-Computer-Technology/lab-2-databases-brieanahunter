@@ -1,0 +1,46 @@
+Lab 2 Code Review
+By Shawn Conboy
+
+First Impressions
+
+	UI is different. I thought I had accidentally highlighted everything for a second.
+	That's not bad, in terms of UI though, you want your users to be able to open,
+	and with no hesitation, know exactly what's going on and what to do in the app.
+	
+	I think possibly the scaling can be better. On my end, a lot of the form is smaller
+	than expected. To be specific, I need to scroll horizontally to see the population
+	numbers of the data grid view.
+
+	I like the dropdown sort feature. It's different from what I'd expected to see.
+	Another example of the smaller scale is here as well. The wording on the right 
+	is cut off from the drop down menu.
+
+	Math buttons being able to "hide" and "show" is also a nice touch.
+
+Is the code generally readable and well documented?
+
+	Code is generally readable. There are no dev created comments. I understand this
+	was a simple program and most methods are self explanatory.
+
+	I see those lambda expressions in there. I haven't learned them yet. So I'm unsure
+	of what they do specifically.
+	
+Did you find any software defects?
+
+	btnExit_Click() and btnClear_Click() methods both have 0 references for either.
+	When testing app, I noticed that the exit button was not working. This explains why.
+
+	If you click the Lightning icon in the properties pane, you get options for all the 
+	event handlers for a controller. Assign the "click" property to your desired method.
+
+What was one way that your solution differed from yours?
+
+	Your program is very different from mine. Specifically, our UI. You have buttons that
+	show and hide elements, and dropdowns with selectable queries.
+
+	Mine is very static with updates after every click.
+
+Do you have any other constructive comments for the author?
+
+	Constructive.... I don't think so. I understand everyone will create things in their own
+	way. Your program works and runs well with the exception of the exit button.
